@@ -14,7 +14,7 @@
 
 Behind-the-scene technician, who loves to discover new tools and techs.  
 Passionnate about IT, mainly software development and CNC technologies.  
-Ambitious, expert and perfectioniste as its core.
+Ambitious, expert and perfectionist as its core.
 
 ## 💻 Languages & Techs
 - **JavaScript** : <br>
