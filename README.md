@@ -5,6 +5,7 @@
 <div align=center>
     <br>
     3<sup>rd</sup> year IT Student @ <a href="https://www.estiam.education"><img width="15px" src="img/estiam.jpg"> <b>Estiam</b></a><br>
+    Junior Dev @ <a href="https://sncf.com/"><img width="15px" src="img/sncf.png"> <b>SNCF</b></a><br>
     JS • C# • IOT • Software<br>
     3D Printing • CNC<br>
     <br>
