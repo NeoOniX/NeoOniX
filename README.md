@@ -4,7 +4,7 @@
 
 <div align=center>
     <br>
-    3<sup>rd</sup> year IT Student @ <a href="https://www.estiam.education"><img width="15px" src="img/estiam.jpg"> <b>Estiam</b></a><br>
+    4<sup>th</sup> year IT Student @ <a href="https://www.estiam.education"><img width="15px" src="img/estiam.jpg"> <b>Estiam</b></a><br>
     Junior Dev @ <a href="https://sncf.com/"><img width="15px" src="img/sncf.png"> <b>SNCF</b></a><br>
     JS • C# • IOT • Software<br>
     3D Printing • CNC<br>
@@ -25,8 +25,8 @@ Ambitious, expert and perfectionist as its core.
     <img src="https://img.shields.io/badge/-nodejs-262626?style=for-the-badge&logo=nodedotjs">
     <img src="https://img.shields.io/badge/-npm-262626?style=for-the-badge&logo=npm">
     <img src="https://img.shields.io/badge/-electron-262626?style=for-the-badge&logo=electron">
-    <img src="https://img.shields.io/badge/-expressjs-262626?style=for-the-badge&logo=express">
-    <img src="https://img.shields.io/badge/-json-262626?style=for-the-badge&logo=json">
+    <img src="https://img.shields.io/badge/-angular-262626?style=for-the-badge&logo=angular">
+    <img src="https://img.shields.io/badge/-react-262626?style=for-the-badge&logo=react">
 </div>
 
 -   **C#** : <br>
@@ -34,18 +34,6 @@ Ambitious, expert and perfectionist as its core.
     <img src="https://img.shields.io/badge/-c_sharp-262626?style=for-the-badge&logo=csharp">
     <img src="https://img.shields.io/badge/-unity-262626?style=for-the-badge&logo=unity">
     <img src="https://img.shields.io/badge/-nuget-262626?style=for-the-badge&logo=nuget">
-</div>
-
--   **Mobile** :<br>
-<div>
-    <img src="https://img.shields.io/badge/-android-262626?style=for-the-badge&logo=android">
-    <img src="https://img.shields.io/badge/-flutter-262626?style=for-the-badge&logo=flutter">
-</div>
-
--   **PHP** : <br>
-<div>
-    <img src="https://img.shields.io/badge/-php-262626?style=for-the-badge&logo=php">
-    <img src="https://img.shields.io/badge/-symfony-262626?style=for-the-badge&logo=symfony">
 </div>
 
 -   **SQL** : <br>
@@ -57,6 +45,7 @@ Ambitious, expert and perfectionist as its core.
 -   **Java** : <br>
 <div>
     <img src="https://img.shields.io/badge/-java-262626?style=for-the-badge&logo=java">
+    <img src="https://img.shields.io/badge/-spring-262626?style=for-the-badge&logo=spring">
 </div>
 
 -   **Python** :<br>
@@ -66,7 +55,6 @@ Ambitious, expert and perfectionist as its core.
 
 -   **IDEs** : <br>
 <div>
-    <img src="https://img.shields.io/badge/-Visual_Studio-262626?style=for-the-badge&logo=visualstudio">
     <img src="https://img.shields.io/badge/-VS_Code-262626?style=for-the-badge&logo=visualstudiocode">
     <img src="https://img.shields.io/badge/-intellij_idea-262626?style=for-the-badge&logo=intellijidea">
     <img src="https://img.shields.io/badge/-android_studio-262626?style=for-the-badge&logo=androidstudio">
