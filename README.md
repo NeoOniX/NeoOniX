@@ -4,7 +4,7 @@
 
 <div align=center>
     <br>
-    4<sup>th</sup> year IT Student @ <a href="https://www.estiam.education"><img width="15px" src="img/estiam.jpg"> <b>Estiam</b></a><br>
+    5<sup>th</sup> year IT Student @ <a href="https://www.estiam.education"><img width="15px" src="img/estiam.jpg"> <b>Estiam</b></a><br>
     Dev @ <a href="https://sncf.com/"><img width="15px" src="img/sncf.png"> <b>SNCF</b></a><br>
     JS • C# • IoT • Software<br>
     3D Printing • CNC<br>
