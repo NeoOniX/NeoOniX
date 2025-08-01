@@ -29,6 +29,7 @@ Always aiming to do things well, with a focus on learning and improving every da
     <img src="https://img.shields.io/badge/-next-131723?style=for-the-badge&logo=nextdotjs">
     <img src="https://img.shields.io/badge/-vite-131723?style=for-the-badge&logo=vite">
 </div>
+<br>
 
 - **C# - Unity** : <br>
 <div>
@@ -38,27 +39,31 @@ Always aiming to do things well, with a focus on learning and improving every da
     <img src="https://img.shields.io/badge/-meta_quest-131723?style=for-the-badge&logo=meta">
     
 </div>
-
+<br>
+  
 - **Java** : <br>
 <div>
     <img src="https://img.shields.io/badge/-java-131723?style=for-the-badge&logo=java">
     <img src="https://img.shields.io/badge/-spring-131723?style=for-the-badge&logo=spring">
 </div>
-
+<br>
+  
 - **Relational DBs** : <br>
 <div>
     <img src="https://img.shields.io/badge/-mysql-131723?style=for-the-badge&logo=mysql">
     <img src="https://img.shields.io/badge/-sqlite-131723?style=for-the-badge&logo=sqlite">
     <img src="https://img.shields.io/badge/-postgresql-131723?style=for-the-badge&logo=postgresql">
 </div>
-
+<br>
+  
 - **IDEs** : <br>
 <div>
     <img src="https://img.shields.io/badge/-VS_Code-131723?style=for-the-badge&logo=visualstudiocode">
     <img src="https://img.shields.io/badge/-intellij_idea-131723?style=for-the-badge&logo=intellijidea">
     <img src="https://img.shields.io/badge/-android_studio-131723?style=for-the-badge&logo=androidstudio">
 </div>
-
+<br>
+  
 - **Version Control** : <br>
 <div>
     <img src="https://img.shields.io/badge/-git-131723?style=for-the-badge&logo=git">
@@ -67,7 +72,8 @@ Always aiming to do things well, with a focus on learning and improving every da
     <img src="https://img.shields.io/badge/-gitea-131723?style=for-the-badge&logo=gitea">
     <img src="https://img.shields.io/badge/-apache_svn-131723?style=for-the-badge&logo=apache">
 </div>
-
+<br>
+  
 - **CI/CD - Deployment** : <br>
 <div>
     <img src="https://img.shields.io/badge/-docker-131723?style=for-the-badge&logo=docker">
@@ -76,7 +82,8 @@ Always aiming to do things well, with a focus on learning and improving every da
     <img src="https://img.shields.io/badge/-jenkins-131723?style=for-the-badge&logo=jenkins">
     <img src="https://img.shields.io/badge/-sonarqube-131723?style=for-the-badge&logo=sonar">
 </div>
-
+<br>
+  
 - **OS Administration** : <br>
 <div>
     <img src="https://img.shields.io/badge/-W10-131723?style=for-the-badge&logo=windows">
@@ -87,7 +94,8 @@ Always aiming to do things well, with a focus on learning and improving every da
     <img src="https://img.shields.io/badge/-Ubuntu-131723?style=for-the-badge&logo=ubuntu">
     <img src="https://img.shields.io/badge/-Cisco_IOS-131723?style=for-the-badge&logo=cisco">
 </div>
-
+<br>
+  
 - **Boards** : <br>
 <div>
     <img src="https://img.shields.io/badge/-arduino-131723?style=for-the-badge&logo=arduino">
@@ -95,7 +103,7 @@ Always aiming to do things well, with a focus on learning and improving every da
     <img src="https://img.shields.io/badge/-platformio-131723?style=for-the-badge&logo=platformio">
     <img src="https://img.shields.io/badge/-raspberry_pi-131723?style=for-the-badge&logo=raspberrypi">
 </div>
-
+  
 ## 🏢 Team
 
 People I mostly work with :
