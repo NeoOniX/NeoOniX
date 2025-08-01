@@ -29,6 +29,12 @@ Always aiming to do things well, with a focus on learning and improving every da
     <img src="https://img.shields.io/badge/-next-131723?style=for-the-badge&logo=nextdotjs">
     <img src="https://img.shields.io/badge/-vite-131723?style=for-the-badge&logo=vite">
 </div>
+<div>
+    <img src="https://img.shields.io/badge/-tailwind-131723?style=for-the-badge&logo=tailwindcss">
+    <img src="https://img.shields.io/badge/-prisma-131723?style=for-the-badge&logo=prisma">
+    <img src="https://img.shields.io/badge/-shadcn-131723?style=for-the-badge&logo=shadcnui">
+    <img src="https://img.shields.io/badge/-heroui-131723?style=for-the-badge&logo=heroui">
+</div>
 <br>
 
 - **C# - Unity** : <br>
@@ -41,10 +47,13 @@ Always aiming to do things well, with a focus on learning and improving every da
 </div>
 <br>
   
-- **Java** : <br>
+- **Java - Kotlin** : <br>
 <div>
     <img src="https://img.shields.io/badge/-java-131723?style=for-the-badge&logo=java">
     <img src="https://img.shields.io/badge/-spring-131723?style=for-the-badge&logo=spring">
+    <img src="https://img.shields.io/badge/-kotlin-131723?style=for-the-badge&logo=kotlin">
+    <img src="https://img.shields.io/badge/-kotlin_multiplatform-131723?style=for-the-badge&logo=kotlin">
+    <img src="https://img.shields.io/badge/-jetpack_compose-131723?style=for-the-badge&logo=jetpackcompose">
 </div>
 <br>
   
