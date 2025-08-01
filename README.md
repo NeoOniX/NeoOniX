@@ -28,8 +28,6 @@ Always aiming to do things well, with a focus on learning and improving every da
     <img src="https://img.shields.io/badge/-react-131723?style=for-the-badge&logo=react">
     <img src="https://img.shields.io/badge/-next-131723?style=for-the-badge&logo=nextdotjs">
     <img src="https://img.shields.io/badge/-vite-131723?style=for-the-badge&logo=vite">
-</div>
-<div>
     <img src="https://img.shields.io/badge/-tailwind-131723?style=for-the-badge&logo=tailwindcss">
     <img src="https://img.shields.io/badge/-prisma-131723?style=for-the-badge&logo=prisma">
     <img src="https://img.shields.io/badge/-shadcn-131723?style=for-the-badge&logo=shadcnui">
