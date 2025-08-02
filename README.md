@@ -47,7 +47,7 @@ Always aiming to do things well, with a focus on learning and improving every da
   
 - **Java - Kotlin** : <br>
 <div>
-    <img src="https://img.shields.io/badge/-java-131723?style=for-the-badge&logo=java">
+    <img src="https://img.shields.io/badge/-java_boot-131723?style=for-the-badge&logo=java">
     <img src="https://img.shields.io/badge/-spring-131723?style=for-the-badge&logo=spring">
     <img src="https://img.shields.io/badge/-kotlin-131723?style=for-the-badge&logo=kotlin">
     <img src="https://img.shields.io/badge/-kotlin_multiplatform-131723?style=for-the-badge&logo=kotlin">
